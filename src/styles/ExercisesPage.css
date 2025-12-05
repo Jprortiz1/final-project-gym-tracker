@@ -1,0 +1,62 @@
+.ex-page {
+  padding: 60px 40px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.ex-title {
+  font-size: 42px;
+  font-weight: 800;
+  margin-bottom: 25px;
+}
+
+.ex-select-wrapper {
+  margin-bottom: 30px;
+}
+
+.ex-select-label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.ex-select {
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.ex-loading {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.ex-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  padding: 0;
+}
+
+.ex-card {
+  padding: 18px 22px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+
+.ex-card__title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.ex-card__desc {
+  font-size: 15px;
+  color: #555;
+  line-height: 1.6;
+}
