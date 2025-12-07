@@ -1,3 +1,7 @@
+## 🌍 Live Demo
+Frontend deployed at: https://final-project-gym-tracker.vercel.app
+
+
 📘 Gym Progress Tracker
 
 A full-stack fitness tracking application that allows users to log workouts, track progress over time, and explore exercises by muscle group.
