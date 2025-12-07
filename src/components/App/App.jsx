@@ -7,6 +7,9 @@ import ExercisesPage from "../../pages/ExercisesPage.jsx";
 import HistoryPage from "../../pages/HistoryPage.jsx";
 import LoginModal from "../LoginModal/LoginModal.jsx";
 import RegisterModal from "../RegisterModal/RegisterModal.jsx";
+
+import ProfilePage from "../../pages/ProfilePage.jsx";  // <-- IMPORT CORRECTO
+
 import "./App.css";
 
 function App() {
@@ -49,6 +52,7 @@ function App() {
           <Route path="/" element={<DashboardPage />} />
           <Route path="/exercises" element={<ExercisesPage />} />
           <Route path="/history" element={<HistoryPage />} />
+          <Route path="/profile" element={<ProfilePage />} /> {/* <-- RUTA AGREGADA */}
         </Routes>
       </main>
 
