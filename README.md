@@ -1,6 +1,14 @@
 ## 🌍 Live Demo
 Frontend deployed at: https://final-project-gym-tracker.vercel.app
 
+###################################################
+
+## 🔐 Profile Page Access
+The profile page is accessible without authentication for reviewers:
+
+https://final-project-gym-tracker.vercel.app/profile
+
+
 
 📘 Gym Progress Tracker
 
